@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>자기소개 페이지</title>
+</head>
+<body>
+
+<div id="profile-container" style="text-align: center; background-color: lightblue; padding: 20px;">
+    <img src="webIm.jpg" width="200" height="200" alt="" style="border: 5px solid black; border-radius: 50%;">
+    <div id="name" style="font-weight: bold; font-size: 20px;">한태규</div>
+    <br>
+    <div id="student-id" style="font-weight: bold; font-size: 16px;">학번: 10520</div>
+    <br>
+    <div id="greeting" style="font-size: 14px;">안녕하세요, 선린인고에 다니는 한태규입니다.</div>
+    <ul id="introduction" style="text-align: left; max-width: 300px; margin: 20px auto;">
+        <li style="font-size: 12px;">게임을 좋아함</li>
+        <li style="font-size: 10px;">Go를 배우는 중임</li>
+    </ul>
+</div>
+
+</body>
+</html>
